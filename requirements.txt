@@ -1,0 +1,7 @@
+whois
+openai
+requests
+BeautifulSoup
+getpass
+urllib 
+urlparse
